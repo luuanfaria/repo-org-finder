@@ -3,7 +3,7 @@
 </h3>
 
 # repo-org-finder
-Trata-se de uma Single Page Application que conecta com a API do GitHub e listaa os detalhes do perfil e repositórios.
+Trata-se de uma Single Page Application que conecta com a API do GitHub e lista os detalhes do perfil e repositórios.
 
 Layout baseado no https://stars.github.com.
 
